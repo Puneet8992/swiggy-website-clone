@@ -34,7 +34,7 @@ Just fork it and you are good to go.
 👤 **Puneet**
 
 - Github: [puneet](https://github.com/Puneet8992)
-- Linkedin: [puneet](https://linkedin.com/in/mr-puneet-0028a1220)
+- Linkedin: [puneet](https://www.linkedin.com/in/puneet-0028a1220/)
 - Email: (puneet8992@gmail.com)
 
 ## 🤝 Contributing
